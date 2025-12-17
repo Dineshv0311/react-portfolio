@@ -1,9 +1,9 @@
 import { useEffect, useState } from "react";
 
-export const LoadingScreen=(onComplete)=>{
+export const LoadingScreen=({onComplete})=>{
 
     const [text,setText]=useState('');
-    const fullText="hello world";
+    const fullText="Entering...";
 
     useEffect(()=>{
         let index=0;
