@@ -29,10 +29,10 @@ export const Projects=()=>{
                     </div>
                     <div className="p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:border-blue-500/30 hover:shadow-[0_2px_8px_rgba(59,130,246,0.2)] transition">
                         <h3 className="text-xl font-bold">
-                            CryptoTransfer
+                            FastApi-ToDo
                         </h3>
                         <p className="mt-2 mb-4 text-gray-400">
-                            A decentralized application (dApp) that enables users to send and receive cryptocurrency
+                            A task management application built with FastAPI and React for efficient to-do list handling.
                         </p>
                         <div>
                             {["React", "Solidity", "Web3.js", "Tailwind CSS"].map((tech,key)=>(
@@ -47,10 +47,10 @@ export const Projects=()=>{
                     </div>
                     <div className="p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:border-blue-500/30 hover:shadow-[0_2px_8px_rgba(59,130,246,0.2)] transition">
                         <h3 className="text-xl font-bold">
-                            CryptoTransfer
+                            ChatBot using Ollama
                         </h3>
                         <p className="mt-2 mb-4 text-gray-400">
-                            A decentralized application (dApp) that enables users to send and receive cryptocurrency
+                            An AI-powered chatbot application leveraging Ollama's language models for natural conversations.
                         </p>
                         <div>
                             {["React", "Solidity", "Web3.js", "Tailwind CSS"].map((tech,key)=>(
@@ -65,10 +65,10 @@ export const Projects=()=>{
                     </div>
                     <div className="p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:border-blue-500/30 hover:shadow-[0_2px_8px_rgba(59,130,246,0.2)] transition">
                         <h3 className="text-xl font-bold">
-                            CryptoTransfer
+                            DevOps Pipeline Automation
                         </h3>
                         <p className="mt-2 mb-4 text-gray-400">
-                            A decentralized application (dApp) that enables users to send and receive cryptocurrency
+                            A DevOps pipeline automation tool for streamlining CI/CD processes.
                         </p>
                         <div>
                             {["React", "Solidity", "Web3.js", "Tailwind CSS"].map((tech,key)=>(
