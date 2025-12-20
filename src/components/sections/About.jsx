@@ -4,13 +4,11 @@ export const About = () => {
 
     const frontendSkills = [
         "React",
-        "Vue",
-        "TypeScript",
+        "JavaScript",
         "Tailwind CSS",
-        "Svelte",
     ];
 
-    const backendSkills = ["Node.js", "Python", "AWS", "MongoDB", "GraphQL"];
+    const backendSkills = ["Node.js", "Express.js", "FastAPI"];
 
     return(
         <section
