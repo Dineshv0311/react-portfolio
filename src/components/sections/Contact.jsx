@@ -95,7 +95,7 @@ export const Contact = () => {
             <a href="#" className="text-gray-400 hover:text-blue-400 transition">
               <FaTwitter />
             </a>
-            <a href="#" className="text-gray-400 hover:text-blue-500 transition">
+            <a href="https://www.linkedin.com/in/dinesh-v-486367289/" className="text-gray-400 hover:text-blue-500 transition">
               <FaLinkedin />
             </a>
             <a href="https://github.com/Dineshv0311" className="text-gray-400 hover:text-white transition">
