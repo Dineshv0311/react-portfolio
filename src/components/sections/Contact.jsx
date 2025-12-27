@@ -1,6 +1,8 @@
 import { useState } from "react";
 import { RevealOnScroll } from "../RevealOnScroll";
 import emailjs from "emailjs-com";
+import { MdEmail } from "react-icons/md";
+
 import { 
   FaTwitter, 
   FaLinkedin, 
@@ -92,7 +94,7 @@ export const Contact = () => {
 
           {/* Social Links */}
           <div className="flex justify-center space-x-6 text-xl">
-            <a href="#" className="text-gray-400 hover:text-blue-400 transition">
+            <a href="https://x.com/DevDineshX" className="text-gray-400 hover:text-blue-400 transition">
               <FaTwitter />
             </a>
             <a href="https://www.linkedin.com/in/dinesh-v-486367289/" className="text-gray-400 hover:text-blue-500 transition">
@@ -101,10 +103,7 @@ export const Contact = () => {
             <a href="https://github.com/Dineshv0311" className="text-gray-400 hover:text-white transition">
               <FaGithub />
             </a>
-            <a href="#" className="text-gray-400 hover:text-pink-400 transition">
-              <FaInstagram />
-            </a>
-            <a href="#" className="text-gray-400 hover:text-green-400 transition">
+            <a href="mailto:dinesh.v2023@vitstudent.ac.in" className="text-gray-400 hover:text-green-400 transition">
               <FaEnvelope />
             </a>
           </div>
